@@ -1,3 +1,4 @@
+
 .loader
 {
     width: 120px;
@@ -18,7 +19,7 @@
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background-color: white;
+    background-color: black;
     animation: bounce .5s alternate infinite;
 }
 .ball:nth-child(2) {
